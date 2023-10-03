@@ -17,6 +17,8 @@ Particle Connect is a simple collection of wallet adapters and components capabl
 ## 🔑 Particle Auth
 Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc.
 
+##
+
 👉 Try the demo: https://web-demo.particle.network/connectKit
 
 👉 Learn more about Particle Network: https://particle.network
