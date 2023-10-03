@@ -1,0 +1,31 @@
+{
+  "name": "particle-connect-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Boilerplate demo application for facilitating wallet connection with Particle Connect",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "@particle-network/auth": "^1.2.1",
+    "@particle-network/chains": "^1.2.1",
+    "@particle-network/connect": "^1.2.0",
+    "@particle-network/connect-react-ui": "^1.2.0",
+    "antd": "^5.9.4",
+    "web3": "^4.1.2"
+  }
+}

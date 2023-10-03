@@ -1,0 +1,39 @@
+.connectkit-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    overflow: auto;
+    height: 100vh;
+}
+
+.connect-btn {
+    margin-top: 50px;
+}
+
+.connect-custom {
+    img {
+        height: 60px;
+        width: 60px;
+        cursor: pointer;
+    }
+    margin-bottom: 20px;
+}
+
+.modal-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.connected-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
